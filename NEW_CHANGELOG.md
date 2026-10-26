@@ -19,8 +19,7 @@ TONEMAPPING:
 COLOR:  
 • Color Engine 'Photo Realism' is slightly less bright  
 • Exilitay Spec day sepia is about 50% lower  
-• Exilitay Spec temp is slightly cooler for LCS, slightly warmer for Gamma  
-• Exilitay Spec night color profile has less sepia, day has more  
+• Exilitay Spec temp is slightly cooler for LCS & Gamma
 • All color grades reworked for a more natural, realistic look  
 • Added new color grades: Natural & Tokyo  
 • Removed Chroma. Natural is now the default color grade
